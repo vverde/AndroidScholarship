@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidScholarship</string>
+    <string name="intro">Users with scholarship: 10.000\nUsers on Slack: 7.553\nUsers in country channels: 3.500\nNumber of country channels: 31\nChannel with most users (451): #Poland\nAverage users per country: 113\n</string>
+</resources>
